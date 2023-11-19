@@ -1,4 +1,4 @@
---
+---
 layout: default
 title: Home
 ---
@@ -12,7 +12,7 @@ title: Home
 ## MA applications
 
 <b>Cambridge </b>
-    -[ Cambridge Mst ](./Cambridge Mst )
+
     - [Research Proposal](Research Proposal)
 
 
