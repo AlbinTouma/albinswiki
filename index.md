@@ -11,7 +11,7 @@ title: Home
 
 ## MA applications
 
-#### Cambridge
+<b>Cambridge </b>
     -[ Cambridge Mst ](./Cambridge Mst )
     - [Research Proposal](Research Proposal)
 
