@@ -3,6 +3,9 @@ layout: default
 title: Reserach Proposal
 ---
 
+
+
+
 > Main goals:
 
 The research proposal should answer the following questions
@@ -12,25 +15,39 @@ The research proposal should answer the following questions
 4. Show why you are the right person to do this research
 
 Name: Albin Denis Touma
-Proposed Title: 
+Proposed Title: xxxxxxx
+
 
 ## One paragraph synopsis
 <i>A straightforward, descriptive, and informatie outline of the scope of the research and what it aims to achieve</i>
 
-## Relevance
+
+## Relevance of topic to course themes
 <i>An account of why this topic is relevant and worth investigating</i>
+
 
 
 ## Main reserach question
 <i>A proposed main reserach question (or hypothesis) which should be focused and not overly broad</i>
 
+
+
+
 ## Reserach context
-<i>To what extent has the question already been answered and what area(s) would benefit from new knoweldge? You should aim to refer to papers/articles that you can access and add these to reference list</i>
+<i>To what extent has the question already been answered and what area(s) would benefit from new knoweldge? 
+You should aim to refer to papers/articles that you can access and add these to reference list</i>
+
+
+
 
 ## Brief overview of proposed reserach design and methods
 <i>How do I plan to undertake the reserach</i>
 
+
+
 ## Likely data and means to access the sources
+
+
 
 ## Reference list/Bibliography
 
