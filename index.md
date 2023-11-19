@@ -7,8 +7,8 @@ title: Home
 
 
  
-[Why vimwikie?](Why%20vimwikie%3F.md) Simple, the reason we use vimwiki is to avoid bloat and vendor lock-in. 
-[How is language learning organised?](How%20is%20language%20learning%20organised?.md) Work in progress.....but likely involve vimwiki.   
+[Why vimwikie?](Why.md) Simple, the reason we use vimwiki is to avoid bloat and vendor lock-in. 
+[How is language learning organised?](for_langauge_learning.md) Work in progress.....but likely involve vimwiki.   
 
 
 
