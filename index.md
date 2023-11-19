@@ -13,7 +13,7 @@ title: Home
 
 <b>Cambridge </b>
 
-    - [Research Proposal](Research Proposal)
+1. [Proposal](Research Proposal)
 
 
 ## Coding space
