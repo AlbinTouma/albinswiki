@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Welcome to Albin's Wikipedia! 
 
 

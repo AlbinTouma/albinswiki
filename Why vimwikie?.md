@@ -1,4 +1,11 @@
+---
+layout: default
+title: whywimwiki?
+---
+
+
 # Why vimwikie?
+ 
 
 ## My Ulysess Pact
 

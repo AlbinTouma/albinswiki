@@ -1,4 +1,9 @@
-# How we organise langauge learning
+---
+layout: default
+title: vimforlearning
+---
+
+[#](#) How we organise langauge learning
 
 Tools: 
 - Ankivim - lets you integrate with Anki and create as well as review cards without leaving your editor. 
