@@ -10,9 +10,6 @@ in current US dollars.
 Despite efforts to encourage standardisation of domestic legislation through the United Nations Convention Against Corruption, there remains the issue of jurisdictional differences, both in laws
 and behaviours. What is legal in one country is not so elsewhere and comparably, the behaviour of otherwise legal actors may breach laws in one state and not another. 
 
-
-
-
 Some interesting topics related to the theme of evaluating AML's contribution to peace and justice and SDG 16.4.
 
 1. Who gets sanctioned? Finance and statecraft - are international sanctions and AML regimes being weapoinzed? 
@@ -28,3 +25,9 @@ Some interesting topics related to the theme of evaluating AML's contribution to
 
 The world needs comparable and reliable statistics on IFFs to shed light on sectors and activities most prone to illicit finance. 
 UNCTAD and UNODC published a conceptual framework for the Statistical Measurement of Illicit Financial Flows endoresed by the United Nations Statistical Commission in March 2022. 
+
+
+## Resources
+
+- [Conceptual Framework for the statistical measurement of illicit financial flows](https://unctad.org/system/files/official-document/IFF_Conceptual_Framework_EN.pdf), United Nations Office on Drugs and Crime, October 2020.
+- 

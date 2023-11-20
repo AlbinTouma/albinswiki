@@ -18,5 +18,8 @@ title: Home
 
 ## Coding space
 
+1. [Rust](Rust)
+2. [Python](Python)
+
 ## Romanian
 
