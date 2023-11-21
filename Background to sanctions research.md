@@ -13,12 +13,15 @@ and behaviours. What is legal in one country is not so elsewhere and comparably,
 Some interesting topics related to the theme of evaluating AML's contribution to peace and justice and SDG 16.4.
 
 1. Who gets sanctioned? Finance and statecraft - are international sanctions and AML regimes being weapoinzed? 
-2. How do illicit financial flows undermine democracies?
-3. Terrornomics; the sanctions and international money laundering legal order as a security governance tool to combat illicit finance in transnational security spaces. 
-4. Sustainable competitiveness, hawk/dove game theory, sanctions, blocking statues, and anti-sanctions laws. 
-5. Hawks/doves in lawfare ; how stronger states taget weaker countries.
-6. 5. The choice of how we define illicit
-7. Beneficial ownership registries; what is the evidence that they prevent crime ie are they effective contributions to peace and justice?
+2. How do illicit financial flows undermine security and stability in regions?
+        -[ Russia's illicitnetworks ]( illicit networks )growing use of illicit networks risks damaging the integrity of international financial and trading systems to support its defence procurement networks, business military ties in Syria, and IFF and Wagner in Africa. 
+        
+    
+4. Terrornomics; the sanctions and international money laundering legal order as a security governance tool to combat illicit finance in transnational security spaces. 
+5. Sustainable competitiveness, hawk/dove game theory, sanctions, blocking statues, and anti-sanctions laws. 
+6. Hawks/doves in lawfare ; how stronger states taget weaker countries.
+7. 5. The choice of how we define illicit
+8. Beneficial ownership registries; what is the evidence that they prevent crime ie are they effective contributions to peace and justice?
 
 <b>Datasets</b>
 - [UNCTAD Measuring Illicit Financial FLows](https://unctad.org/news/first-ever-official-data-illicit-financial-flows-now-available)
@@ -30,4 +33,6 @@ UNCTAD and UNODC published a conceptual framework for the Statistical Measuremen
 ## Resources
 
 - [Conceptual Framework for the statistical measurement of illicit financial flows](https://unctad.org/system/files/official-document/IFF_Conceptual_Framework_EN.pdf), United Nations Office on Drugs and Crime, October 2020.
+- [New Dynamics in Illicit Finance and Russian Foreign Policy](https://news.exeter.ac.uk/wp-content/uploads/2023/08/SOCACE-RP17-NewDynamics-Aug23-avedit.pdf), David Lewis and Tena Prelec, 2023
+- 
 - 
