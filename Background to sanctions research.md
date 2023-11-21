@@ -14,7 +14,7 @@ Some interesting topics related to the theme of evaluating AML's contribution to
 
 1. Who gets sanctioned? Finance and statecraft - are international sanctions and AML regimes being weapoinzed? 
 2. How do illicit financial flows undermine security and stability in regions?
-        -[ Russia's illicit networks ](./Russia's illicit networks )growing use of illicit networks risks damaging the integrity of international financial and trading systems to support its defence procurement networks, business military ties in Syria, and IFF and Wagner in Africa. 
+        -[ Russia's illicit networks ](./Russia's illicit networks.md)growing use of illicit networks risks damaging the integrity of international financial and trading systems to support its defence procurement networks, business military ties in Syria, and IFF and Wagner in Africa. 
         
     
 4. Terrornomics; the sanctions and international money laundering legal order as a security governance tool to combat illicit finance in transnational security spaces. 
