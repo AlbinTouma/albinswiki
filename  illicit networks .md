@@ -90,3 +90,103 @@ economic power as follows:
 > accommodation. These differences elicit in turn diverging tendencies in the
 > target country or coalition. Traditional geopolitics typically producescentripetal forces, high threat perception, and counterbalancing or
 > bandwagoning behaviour. Geoeconomics, by contrast, creates centrifugal forces, low or medium threat perception, and underbalancing behaviour.
+
+
+This reading is misleading because for Russia, geoeconomics was not an alternative to military action but its accompaniment. 
+
+## Key vectos of Russian foreign polic conceptualising IFF
+
+Illicit Finance is used to pursue 3 foreign policy areas. Previous reserach (Owen, Prelec, Mayne 2022, p9) developed a  conceptual framework that maps different forms of IFF interacting with 
+different aspects of Russian foreign policy in a venn diagram: 
+
+- War and Violence (assassinations, military interventions, illegal occuupation, paramilitary forces, defence supply chains, orchestrating coups)
+- Ideology and narratives (pro-Russian media outlets, ideologicla networks, recruting influencers, fake news, troll factories, humanitarian foundations, orchestrating protests),
+- Political Interference ( Funding political leaders, fixing elections, energy and trade pressure, financing pro-Russian ngos, parties, orchestrating coups, orchestrating protests)
+
+
+# Political Inteference and Information Campaigns 
+
+<b>Corrosive capital </b> : Political influence achieved through investments accompanied by particularistic and rent seeking ties between political and business actors that have
+impacts on governance. There's close tie between Russian busines circles close to the Kremlin and the gas industry in Uzbekistan (RFE/RL, 2023). Such insider deals have taken on a 
+geopolitical meaning after Russia's invasion of Ukraine. Then, there's Russia's near monopoly on gas in Serbia that complicates their pathway to the EU (Bechev, 2023), while rent-seeking
+structures such as gas intermediary schemes are sued to reward loyal individuals. 
+
+<b>Political Funding</b>: A second mode of indluence is direct fundin of political parties, leaders, infleuncers. Previous SOC ACE reserach traced links between Russian IFF and political parties in Europe (Mayne, 2022). 
+There is extensive evidence of Russian fundin and support directed to politicians in Europe sympathetics to Moscow (Datta, 2022). War placed strain on Russian ties to right-wing parties.
+Le Pen ='s Rassemblement is unlikely to agree to a multi-million loan from Russian-linked bank as they did in 2014 after the annexation of Crimea (Sonne, 2018). A report in The Washington Post, based on 
+leaked documents, detailed a strategy drawn up in Moscow to promote anti-war activities in Germany and support alignemnt between AfD and leftist Die Linke party to undermine
+support for Ukraine.  The Washinton Post also points out that Moscow has long cultivated dozens of AfD members through lavish all expenses paid trips to Russia (Belton et al, 2023). 
+
+<b>Electoral Interference</b>: Private financing to interfere in elections give Russia deniability. The Mueller report concluded that Yevgeny Prigozhin and his Concord companies funded the
+Internat Reserach Agency, troll farm, that ran an information campaign against Hilary Clinton in 2016 (Mueller, 2019, p 16). In 2018 Bolivian election, a report by investigative group Proekt, found that Russian 
+political technologists linked to Rosatom ran a social media campaign to back the re-electiono of pro-Mosoc president Evo Morales.
+
+<b>Disruption and subversion</b>: Aims to fund marginal disruptive elements rather than influence mainstream politics. Pay protestrers to cause disruption rather than influence governments.
+Direct funding in cash to incentivise poeople to join protests has been reported in Africa. A documentary film showed what it claimed were internal spreadsheets detailing payments to 
+demonstrators in CAR. According to the documents, the five protests cost 4, 636 USD to protest against the UN Mission in the country (Jousset, 2013, 16:39). There's no way to 
+verify the documents independently but they accord with practice in funding demonstartions in Russia and other post-soviet states.
+
+## Case Study Moldova
+
+Russia's strategy includes many of these diverse tactics. Russia uses state companies to cultivate network of Moldovan politicians and reorient the country toward Moscow (Belton 2022). Tactics include
+distributing cash, crypto, channeling money through foundations and business associations. 
+
+
+# Defence Procurement Networks
+
+Illicit finance has alwys played a role in procuring military technology. An anonymous security source told journalists that Russia flew 140 million USD in cash to Iran to purchse Iranian
+military drones (Haynes, 2023). Similar cash and barter deals appear to have been used in arms deals with North Korea. In 2023, US sanctioned an individual fro brokering financial and
+barter deals, including supplying commercial aircraft, raw materials, and commodities to fund arms exports to Russia from North Korea (US Treasury, 2023, March 30). 
+
+In 2023, February, US Treasury sanctioned 22 members of the Zimenkov network, a group of companies associated with the arms dealder Igor Zimenkov. The Zimenkov network had used 
+font companies to funnel money within the networkh while attempting to appear lawful. In October 2022, Italian authorities arrested Artem Uss, the son of Governor of Krasnoyarsk, Alexander Uss. 
+Another business man ,Yuri Orekhov, was arrested in Germany in October (Bloomber, 2023). They used, according to US Justice Department, 'Webs of companies, cryptocurrency, and international network of fraudsters to launder money and obtain US military technology'
+(US Department of Justice, 2022, October 19.). 
+
+## Business-military ties in [Syria](Syria)
+
+> Reliance on cash
+> Use of mercenaries to seize mines, oil fields, other assts in exchange for a share in the business
+
+Illicit finance accompanied Russian military campaigns overseas. Companies linkeed to Gennady Timchenko, close associate of Putin, and owner of Stroytransgaz, won contracts in Syria. 
+One such company was Stroytransgaz Engineering (STG Engineering). He acquired it in 2016 to invest in oil exploration, tourism, phosphate production, bu then sold the company two years later to
+two shell companies. According to investigators, European companies are among the buyers relying on convoluted network of shell companies and middlement to fund their purchases (Bassiki, Alfred, Deeb and Oganov, 2022)
+
+The other major Russian economic presence in Syria has been a convoluted network of
+companies believed to be linked to Yevgeny Prigozhin's Concord group and centred on
+the Evro Polis company. It is alleged that Evro Polis and STG Engineering were both
+favoured suppliers in a Russian loan scheme that probably involved inflated prices
+charged for Russian exports (Weiss, 2022, April 5). Evro Polis appears to have been
+active in different business sectors; it was estimated to have generated net profits of
+US$90 million in 2020 (Johnson, 2023). Other companies in Syria have also been linked
+to Prigozhin’s corporate networks (AEOW 2022, 26 September).
+
+According to an in-depth report by the Global Initiative on Transnational Organized
+Crime (GI-TOC), Prigozhin relied on a kaleidoscope of shell companies to run his
+domestic and international business (Stanyard 2023). But on the ground, much of the
+business was run in cash. According to one former Wagner commander, Wagner’s office
+in Damascus keeps large amounts of cash to pay salaries and allay expenses. According
+to the source, a battalion commander once withdrew US$200,000 in cash for expenses.
+One report claimed that the cash was brought in and out of Syria by private jet
+(Patrikarakos, 2023). In Russia itself, Wagner also appears to have relied primarily on
+cash in its operations. After the Wagner mutiny, Russian police reportedly seized more
+than US$100 million in cash and gold bars from vehicles and offices belonging to
+Prigozhin, which the businessman claimed were for Wagner salaries. The money was
+later returned to Prigozhin (Moscow Times 2023, July 4).
+
+Syria became the laboratory for a new model of Russian investment that was later
+reproduced in the Central African Republic (CAR) and elsewhere, using mercenary
+forces to seize mines, oil fields and other assets in exchange for a share in the business
+(Korotkov, 2017, June 26 ). Reports of such a deal first emerged in 2017, when sources
+in the Syrian Ministry of Energy, quoted by independent Russian news site Fontanka.ru,
+claimed that a memorandum was signed by the Syrian Government’s General Petroleum
+Corporation with Evro Polis, according to which Evro Polis undertook to ‘liberate oil and
+gas fields, refineries, other oil and gas infrastructure facilities seized by opponents of the
+regime, and then protect them’. The effort would be rewarded with a 25% share of
+future oil and gas production plus the cost of military operations (Korotkov, 2017, June
+26). Such an agreement might explain the strange operation launched by Wagner in
+early 2018, when some hundreds of Wagner fighters and Syrian forces attacked an
+outpost manned by U.S. Special Forces at the Conoco gas plant, in Deir Ezzor province.
+Despite warnings to pull back, the attack went on and was met by massive air strikes,
+causing heavy losses. It remains unclear whether the Russian government, or part
+thereof, had approved the operation (Reynolds, 2019).
