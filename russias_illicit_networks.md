@@ -1,6 +1,7 @@
 ---
 layout: default
 title: New Dynamics in Illicit Finance and Russian Foreign Policy
+authors: TBD
 ---
 > This paper develops an updated conceptualisation of the linkages between IFF and Russian foreigin policy in the context of rapid changes in the international 
 environment and inside the Russian regime following Russia's invasion of Ukraine. It reviews recent reserach on the use of IFF in Russian international operations and show that IFF
