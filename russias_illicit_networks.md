@@ -3,23 +3,24 @@ layout: default
 title: New Dynamics in Illicit Finance and Russian Foreign Policy
 authors: TBD
 ---
-> This paper develops an updated conceptualisation of the linkages between IFF and Russian foreigin policy in the context of rapid changes in the international 
-environment and inside the Russian regime following Russia's invasion of Ukraine. It reviews recent reserach on the use of IFF in Russian international operations and show that IFF
-has become even more deeply emeshed in the Russian state and FP. 
 
-It covers following reserach gaps
-- The role of the state in facilitating IFF is under researched and often overlooked compared to the study of how IFF harms global development
-- The role of iFF in facilitating foreign policy activities that are destabilising and undermine democracy and governance
-- Not focused on IFF aimed at safeguarding asset, tax avoidance, funding the lifestyles of the rich outside. Focus on role of illicit finance in Russia's security and foreign policy. 
-- Many aspects of Russia's domestic political economy have been extensively reserached, detailed work on dynamics and causal links between Russian business, illicit finance, and Russian foreign policy
-remain limited but there's widespread consensus that private interests play a role in Russian foreign policy. However, focus on the super-rich obscures the real workings of illicit finance in the Russian state. 
+PAPER - https://news.exeter.ac.uk/wp-content/uploads/2023/08/SOCACE-RP17-NewDynamics-Aug23-avedit.pdf
 
-They build on previous research by the team in the SOC ACE research programme, which demonstrated the ways in which Russia illicit financial flows (IFF) and 
+> David Lewis and Tena Prelec develop an updated conceptualisation of the
+> linkages between IFF and RUssian foreign policy. They review the research on
+> the use of iFF in Russian operations and show that iFF has become more
+> emeshed in Russian foreign policy. 
+
+David Lewis and Tena Prelec answer the following reserach gaps: 
+
+1. The role of the state in facilitating IFF is under researched and often overlooked compared to the study of how IFF harms global development
+2. The role of IFF in facilitating foreign policy activities that are destabilising and undermine democracy and governance
+3. Many aspects of Russia's domestic political economy have been extensively reserached, detailed work on dynamics and causal links between Russian business, illicit finance, and Russian foreign policy remain limited but there's widespread consensus that private interests play a role in Russian foreign policy. However, focus on the super-rich obscures the real workings of illicit finance in the Russian state. 
+   
+Lewis and Prelec build on previous research by the team in the SOC ACE research programme, which demonstrated the ways in which Russia illicit financial flows (IFF) and 
 Russian serious and organised crime (SOC) act as important instruments of Russian foreign and security policy, and pose a threat to Western democracies. 
 The research also demonstrates the potentially destabilising impact of Russian IFF in conflict-affected and fragile states, including in Africa (Owen, 2022) in
 liminal countries hoping to join the EU (ie Moldova, Georgia, Ukraine). Russia's full-scale invasion in Ukraine has made illicit finance more important in Russian foreign policy.
-
-Despite sanctions, many Russian officials and business people, particularly those in security services or the military, are thriving in wartime. 
 
 ## Definitions and scope
 
@@ -34,44 +35,38 @@ Some argue for an even wider definition to emphasise that illicit also refers to
 Chowla and Falcao (2016) argue that illicit should be something wider and instead point to OECD's deintion of illicit as improper, irregular, esp not sanctioned by law, rule or custom, 
 and that financial flows should encompass both transnational and domestic. 
 
-
 Despite differences in definition, the significance of IFF is acknoweldged. Target 16.4 of the UN Sustainable Development Goals aims by 2030 to significantly reduce illicit financial arms flows,
 strengthen the recovery and return of assets and combat all forms of organised crime. The negative impact of IFF on global development is acknowledged, but this paper highglights
 the role of IFF in facilitating foreign policy activities that are destabilising an dundermine democracy and governance. 
 
-Many of the mechanisms that facilitate IFF are well understood. Lumina argues that iFF are facilitated by offshore, tax havens, secrecy jurisdictions, shell companies, shadowy trust accounts, sham charitable foundations (Lumina 2018, p.320)
-Despite sancitons, many Russian actors use off-the-books financial mechanisms, including cash transfers, gold, diamond smuggling, crypto-currency transactions. The role of the state
-in certain countries in facilitating IFF is under researched and often overlooked. 
+Many of the mechanisms that facilitate IFF are well understood. Lumina argues that iFF are facilitated by offshore, tax havens, secrecy jurisdictions, shell companies, shadowy trust accounts, sham charitable foundations (Lumina 2018, p.320).Despite sancitons, many Russian actors use off-the-books financial mechanisms, including cash transfers, gold, diamond smuggling, crypto-currency transactions. The role of the state in certain countries in facilitating IFF is under researched and often overlooked. 
 
 
-## Why important
+## Why research on IFF is important
 
 Russia's operation in the financial grey zone requires better understanding and more scrutiny. Research in the area is complex and time-consuming bu offers important insights
 into new trends in Russian foreign policy behaviour and decision making. 
 
 ## The political economy of foreign policy
 
-> "Corrosive capital" to influence neighbouring states
+> <span style='background-color:yellow;">Corrosive capital"</span> to influence neighbouring states
 > Sanctions circumvention to keep economy going
 > Private military companies to project power
 > Geoeconomics as war by other means
 
-One viwe is that the Russian state is the key actor using illicit or corrupt business dealings as forms of 'strategic corruption' or competition in the 'Financial Gray Zone' to
+One view is that the Russian state is the key actor using illicit or corrupt business dealings as forms of 'strategic corruption' or competition in the 'Financial Gray Zone' to
 achieve geopolitical goals (Conley, 2022). In, 2022, US Assistant Secretary for FTerrorist Financing and Finacial Crimes Elizabeth Rosenberg calimed that illicit finance
 is a major national secutiyy threat, citing Russia's war in Ukraine as an example. 
 
-A differnt view is that Russia is a kleptocracy in which foreign and domestic policy decisions are determined primarily by personal financial intersts (Dawisha, 2015, Marten 2015). 
+A different view is that Russia is a kleptocracy in which foreign and domestic policy decisions are determined primarily by personal financial intersts (Dawisha, 2015, Marten 2015). 
 The state is less important than multiple personal vested interests who use Russian foreign policy to enrich themselves. 
-
 
 In reality, IFF is not simply an instrument of the Russian state or a way for businesspeople to shape foreign policy in their own interests. The relationship is more complex. 
 Ideology shapes world views, defines threats, helps interepret the world (Lewis 2022). Economics and military capabilities limit ideological aspirations and geopolitics places constraints. 
 But illicit finance augments these essential drivers in three ways.
 
-1. IFF ensures Russian geopolitical strategies are successfully implemented because elites have vested interest in positive outocmes. We see this in big infrastructure projects with economic and geopolitical
-impact ie RUssian gas pipeline to China, 'The power of Siberaia', which came online in 2019. The US 55 billion price tag for the pipeline was artificiall boosted by excess profits for 
-well-connected Gazprom contractors (RIley, 2021, Sberbank, 2018). This reduced the commercial value of the pipeline but also ensured its completion because there were
-vested interests in subcontracting the pipeline construction. Similar logic follows Turkstream project which lets Russian export gas to Turkey and Europe without Ukrainian transit. 
+1. IFF ensures Russian geopolitical strategies are successfully implemented because elites have vested interest in positive outocmes. We see this in big infrastructure projects with economic and geopolitical impact ie RUssian gas pipeline to China, 'The power of Siberaia', which came online in 2019. The US 55 billion price tag for the pipeline was artificiall boosted by excess profits for 
+well-connected Gazprom contractors (RIley, 2021, Sberbank, 2018). This reduced the commercial value of the pipeline but also ensured its completion because there were vested interests in subcontracting the pipeline construction. Similar logic follows Turkstream project which lets Russian export gas to Turkey and Europe without Ukrainian transit. 
 2. Illicit finance is used to compensate for Russian economic and diplomatic weakness. The use of non-formal state actors such as private military companies (PMCs) like Wagner 
    lets Russia project power despite its weakness. They offer flexible funding, including opaque funding from other sources including commerical inocme. Russia maintains influence
    through "corrosive capital in neighbouring states such as Georgia, Uzbekistan, Khazakstan (Prelex, 2020, RFE/RL, 2023). 
@@ -129,13 +124,12 @@ verify the documents independently but they accord with practice in funding demo
 
 ## Case Study Moldova
 
-Russia's strategy includes many of these diverse tactics. Russia uses state companies to cultivate network of Moldovan politicians and reorient the country toward Moscow (Belton 2022). Tactics include
-distributing cash, crypto, channeling money through foundations and business associations. 
+Russia's strategy includes many of these diverse tactics. Russia uses state companies to cultivate network of Moldovan politicians and reorient the country toward Moscow (Belton 2022). Tactics include distributing cash, crypto, channeling money through foundations and business associations. 
 
 
 # Defence Procurement Networks
 
-Illicit finance has alwys played a role in procuring military technology. An anonymous security source told journalists that Russia flew 140 million USD in cash to Iran to purchse Iranian
+Illicit finance has always played a role in procuring military technology. An anonymous security source told journalists that Russia flew 140 million USD in cash to Iran to purchse Iranian
 military drones (Haynes, 2023). Similar cash and barter deals appear to have been used in arms deals with North Korea. In 2023, US sanctioned an individual fro brokering financial and
 barter deals, including supplying commercial aircraft, raw materials, and commodities to fund arms exports to Russia from North Korea (US Treasury, 2023, March 30). 
 
@@ -175,19 +169,11 @@ than US$100 million in cash and gold bars from vehicles and offices belonging to
 Prigozhin, which the businessman claimed were for Wagner salaries. The money was
 later returned to Prigozhin (Moscow Times 2023, July 4).
 
-Syria became the laboratory for a new model of Russian investment that was later
-reproduced in the Central African Republic (CAR) and elsewhere, using mercenary
-forces to seize mines, oil fields and other assets in exchange for a share in the business
-(Korotkov, 2017, June 26 ). Reports of such a deal first emerged in 2017, when sources
-in the Syrian Ministry of Energy, quoted by independent Russian news site Fontanka.ru,
-claimed that a memorandum was signed by the Syrian Government’s General Petroleum
-Corporation with Evro Polis, according to which Evro Polis undertook to ‘liberate oil and
-gas fields, refineries, other oil and gas infrastructure facilities seized by opponents of the
-regime, and then protect them’. The effort would be rewarded with a 25% share of
-future oil and gas production plus the cost of military operations (Korotkov, 2017, June
-26). Such an agreement might explain the strange operation launched by Wagner in
-early 2018, when some hundreds of Wagner fighters and Syrian forces attacked an
-outpost manned by U.S. Special Forces at the Conoco gas plant, in Deir Ezzor province.
-Despite warnings to pull back, the attack went on and was met by massive air strikes,
-causing heavy losses. It remains unclear whether the Russian government, or part
-thereof, had approved the operation (Reynolds, 2019).
+Syria became the laboratory for a new model of Russian investment that was later reproduced in the Central African Republic (CAR) and elsewhere, using mercenary
+forces to seize mines, oil fields and other assets in exchange for a share in the business (Korotkov, 2017, June 26 ). Reports of such a deal first emerged in 2017, when sources
+in the Syrian Ministry of Energy, quoted by independent Russian news site Fontanka.ru, claimed that a memorandum was signed by the Syrian Government’s General Petroleum
+Corporation with Evro Polis, according to which Evro Polis undertook to ‘liberate oil and gas fields, refineries, other oil and gas infrastructure facilities seized by opponents of the
+regime, and then protect them’. The effort would be rewarded with a 25% share of future oil and gas production plus the cost of military operations (Korotkov, 2017, June
+26). Such an agreement might explain the strange operation launched by Wagner in early 2018, when some hundreds of Wagner fighters and Syrian forces attacked an
+outpost manned by U.S. Special Forces at the Conoco gas plant, in Deir Ezzor province. Despite warnings to pull back, the attack went on and was met by massive air strikes,
+causing heavy losses. It remains unclear whether the Russian government, or part thereof, had approved the operation (Reynolds, 2019).

@@ -14,7 +14,7 @@ title: Home
 <b>Cambridge </b>
 
 1. [Proposal](Research Proposal)
-2. [Background to sanctions research](./Background to sanctions research)
+[2](2). [Background to sanctions research](./Background to sanctions research)
 
 ## Coding space
 
