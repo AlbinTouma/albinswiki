@@ -2,27 +2,16 @@
 layout: default
 title: Background to sanctions research
 ---
-# Introduction
 
-There are five major sources of illicit financal flows (IFFs) - bribery, tax evasion, criminal enterprise earnings, corporate profit shifting, and currency regulation evasion, and the movement of monies ie cash smuggling, shell corporations, trade based money laundering. These sources belong to both legal and illegal activities. Legal activities are illicit tax and commercial practices such as aggressive tax avoidance. Illegal activities are illegal tax and commerical practices, illegal markets, corruption, exploitation-type and terrorism financing. Significantly reducing IFFs by 2030 is one of the prioritiesunder the UN's SDG 16. UNCTAD ad UNODC are custodians fo SDG indicator 16.4.1, which measures the total value  of inward and outward IFFs
-in current US dollars. 
+## Papers
 
-Despite efforts to encourage standardisation of domestic legislation through the United Nations Convention Against Corruption, there remains the issue of jurisdictional differences, both in laws
-and behaviours. What is legal in one country is not so elsewhere and comparably, the behaviour of otherwise legal actors may breach laws in one state and not another. 
+- [ The Illicit Financialisation of Russian Foreign policy](russias_illicit_networks.md) growing use of illicit networks risks damaging the integrity of international financial and trading systems to support its defence procurement networks, business military ties in Syria, and IFF and Wagner in Africa.
 
-> Theme AML's contribution to peace and justice and SDG 16.4.
-
-
-<b>How illicit financial flows undermine security and stability in
-regions?</b> 
-
-# [ Russia's illicit networks ](russias_illicit_networks.md)growing use of illicit networks risks damaging the integrity of international financial and trading systems to support its defence procurement networks, business military ties in Syria, and IFF and Wagner in Africa.
-
-Terrornomics; the sanctions and international money laundering legal order as a security governance tool to combat illicit finance in transnational security spaces. 
+- Terrornomics; the sanctions and international money laundering legal order as a security governance tool to combat illicit finance in transnational security spaces. 
 
 
 <b>Policy Coherence and the legal order</b>
-
+v
 [Policy coherence in combating illicit financial flows, OECD](Policy coherence in combating illicit financial flows)
 
 

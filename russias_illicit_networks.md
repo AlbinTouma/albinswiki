@@ -1,10 +1,13 @@
 ---
 layout: default
 title: New Dynamics in Illicit Finance and Russian Foreign Policy
-authors: TBD
 ---
 
-PAPER - https://news.exeter.ac.uk/wp-content/uploads/2023/08/SOCACE-RP17-NewDynamics-Aug23-avedit.pdf
+@TITLE: <b>The Illicit Financialisation of Russian Foreign Policy: Mapping the Practices that facilitate Russia's illicit Financial Flows. </b>
+@AUTHORS: Catherine Owen, Tena Prelec, Tom Mayne
+@URL: https://news.exeter.ac.uk/wp-content/uploads/2023/08/SOCACE-RP17-NewDynamics-Aug23-avedit.pdf
+
+## Summary
 
 > David Lewis and Tena Prelec develop an updated conceptualisation of the
 > linkages between IFF and RUssian foreign policy. They review the research on
