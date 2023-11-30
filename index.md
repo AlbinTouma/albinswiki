@@ -10,18 +10,18 @@ There's no general layout to this vimwiki. Instead, you fuzzy finder to
 find files.
 
 ## MA applications
-[ Cover Letter]( Cover Letter)
-[Research Proposal](Research Proposal)
-[Background to sanctions research](./Background to sanctions research)
-Testing testing testing
+- [ Cover Letter]( Cover Letter)
+- [Research Proposal](Research Proposal)
+- [Background to sanctions research](./Background to sanctions research)
+
 
 ## Coding space
 
-[Rust](Rust)
-[Python](Python)
+- [Rust](Rust)
+- [Python](Python)
 
 ## Romanian
 
-[How is language learning organised?](./for_language_learning.md) Work in progress.....but likely involve vimwiki.   
+- [How is language learning organised?](./for_language_learning.md) Work in progress.....but likely involve vimwiki.   
 
 
