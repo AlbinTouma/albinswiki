@@ -8,7 +8,6 @@ title: Home
 - [Why vimwikie?](./why.md) Simple, the reason we use vimwiki is to avoid bloat and vendor lock-in. 
 
 ## MA applications
-
 1.[ Cover Letter]( Cover Letter)
 2. [Research Proposal](Research Proposal)
 3. [Background to sanctions research](./Background to sanctions research)
