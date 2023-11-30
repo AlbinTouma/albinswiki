@@ -3,9 +3,7 @@ layout: default
 title: Reserach Proposal
 ---
 
-
-
-> Main goals:
+Goals:
 
 The research proposal should answer the following questions
 1. Highlight of the research is original or significant
