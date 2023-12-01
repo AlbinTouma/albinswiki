@@ -1,6 +1,12 @@
 title: Jekyll Gitbook
 longtitle: Jekyll Gitbook
+email: albin.touma@gmail.com
+
 remote_theme: sighingnow/jekyll-gitbook
+toc:
+  enabled: true
+  h-min: 1
+  h_max: 3
 
 plugins:
   - jekyll-relative-links
