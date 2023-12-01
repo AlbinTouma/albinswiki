@@ -1,13 +1,7 @@
-title: Jekyll Gitbook
-longtitle: Jekyll Gitbook
+title: vimwiki
 email: albin.touma@gmail.com
 
-remote_theme: sighingnow/jekyll-gitbook
-toc:
-  enabled: true
-  h-min: 1
-  h_max: 3
-
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 relative_links:
