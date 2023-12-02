@@ -3,9 +3,9 @@ layout: default
 title: New Dynamics in Illicit Finance and Russian Foreign Policy
 ---
 
-@TITLE: <b>The Illicit Financialisation of Russian Foreign Policy: Mapping the Practices that facilitate Russia's illicit Financial Flows. </b>
-@AUTHORS: Catherine Owen, Tena Prelec, Tom Mayne
-@URL: https://news.exeter.ac.uk/wp-content/uploads/2023/08/SOCACE-RP17-NewDynamics-Aug23-avedit.pdf
+**TITLE**: The Illicit Financialisation of Russian Foreign Policy: Mapping the Practices that facilitate Russia's illicit Financial Flows.
+**AUTHORS**: Catherine Owen, Tena Prelec, Tom Mayne
+**URL**: https://news.exeter.ac.uk/wp-content/uploads/2023/08/SOCACE-RP17-NewDynamics-Aug23-avedit.pdf
 
 ## Summary
 
