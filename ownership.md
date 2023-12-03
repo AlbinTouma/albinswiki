@@ -3,7 +3,14 @@ title: What is ownership?
 layout: default
 ---
 
-'Ownership' is a set of rules that govern how Rust manages memory. 
+## Ownership Rules
+
+> Ownership' is a set of rules that govern how Rust manages memory. 
+ 
+- Each value in Rust has an owners
+- There can only be one owner at a time
+- When the owner goes out of scope the value is dropped
+
 
 ## The Stack and the Heap
 
@@ -34,11 +41,6 @@ then B again is slower than getting all the orders at one table.
 Ownership addreses which parts of the code uses what data on the heap or stack
 by minimising duplicate data on the heap and cleaning up unused data. 
 
-## Ownership Rules
-
-- Each value in Rust has an owners
-- There can only be one owner at a time
-- When the owner goes out of scope the value is dropped
 
 ## Variable Scope
 
@@ -135,7 +137,7 @@ When assigning S1 o S2 the String data is copied, meaning we've copied the
 pointer, the lenght, and capacity on the stack. However, we do not copy the heap
 that the pointer refers to. So the data representation looks like this: 
 
-[Copy pointer for S2](./assets/copy_pointer.svg)
+[Copy pointer for S2](./assets/copy_pointer.svg "Copy of pointer")
 
 
 We might assume the second line would make a copy of s1 and bind it to s2, but
@@ -145,7 +147,7 @@ this isn't what happens. Remember, what's stored on the stack is information abo
 If we copied both the pointer and the heap the representation would look like
 this: 
 
-[Copy both heap and stack]('./assets/copy_heap.svg)
+[Copy both heap and stack](./assets/copy_heap.svg "Heap & Stack" )
 
 
 f Rust copied the heap and stack of S2 = S1 it could get really expensive in
@@ -169,10 +171,9 @@ pointer, length, and capacity without copying the data. But as Rust also
 invalidates the first variable, instead of being called a shallow copy, it's
 known as a `move.` 
 
-So what happens when s2 = s1 is that s1 was moved into s2. This is what actually
-happens:
+So what <mark>actually</mark> happens when s2 = s1 is that s1 was moved into s2.
 
-[Rust move, what actually happens](./assets/rust_move.svg "How move works")
+[Rust mov](./assets/rust_move.svg "How move works")
 
 
 
