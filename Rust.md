@@ -10,12 +10,12 @@ title: Rust
 
 - 3.1 [Variables and Mutability](./Variables and Mutability.md)
 - 3.2 [Data Types](./Data Types.md)
-- [3.3 Functions](./3.3 Functions.md)
-- [3.4 Comments](/3.4 Comments.md)
+- [3.3 Functions](./Functions.md)
+- [3.4 Comments](./3.4 Comments.md)
 
 **4. Understanding Ownership**
 
-- [4.1 What is ownership?](./4.1 What is ownership? .md) 
+- [4.1 What is ownership?](./ownership.md) 
 
 # Yew
 
