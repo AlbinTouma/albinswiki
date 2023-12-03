@@ -10,8 +10,10 @@ title: Rust
 
 - 3.1 [Variables and Mutability](./Variables and Mutability.md)
 - 3.2 [Data Types](./Data Types.md)
-- [3.3 Functions](./Functions.md)
-- [3.4 Comments](./3.4 Comments.md)
+- 3.3 Functions (tbc) 
+- 3.4 [Comments](./comments.md)
+
+
 
 **4. Understanding Ownership**
 
