@@ -10,7 +10,7 @@ There's no general layout to this vimwiki. Instead, you fuzzy finder to
 find files.
 
 ## MA applications
-- [ Cover Letter]( Cover Letter)
+- [Cover Letter]( Cover Letter)
 - [Research Proposal](Research Proposal)
 - [Background to sanctions research](./Background to sanctions research)
 

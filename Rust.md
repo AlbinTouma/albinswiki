@@ -13,11 +13,11 @@ title: Rust
 - 3.3 Functions (tbc) 
 - 3.4 [Comments](./comments.md)
 
-
-
 **4. Understanding Ownership**
 
-- [4.1 What is ownership?](./ownership.md) 
+- [4.1 What is ownership?](./ownership.md)
+- 4.2 [References & Borrowing](./references.md)
+
 
 # Yew
 
